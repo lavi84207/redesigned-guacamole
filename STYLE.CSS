@@ -1,0 +1,59 @@
+<style>
+        body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333333;
+    font-size: 18px;
+    margin: 20px;
+}
+
+#my-name {
+    background-color: navy;
+    color: rgb(232, 202, 202);
+    text-align: center;
+    padding: 15px;
+    margin: 50px; ;
+}
+
+nav {
+    background-color: rgb(69, 160, 190);
+    padding: 15px;
+    margin: 50ox;
+    text-align: center;
+
+}
+
+section {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid rgb(195, 89, 89);
+}
+
+.skill-list {
+
+    color: green;
+    font-weight: bold;
+}
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(151, 73, 73);
+}
+
+footer {
+    margin-top: 20px;
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+    </style>
