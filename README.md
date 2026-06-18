@@ -1,2 +1,0 @@
-# redesigned-guacamole
-project3
